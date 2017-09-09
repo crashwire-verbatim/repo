@@ -1,0 +1,397 @@
+Package: ack-grep
+Architecture: all
+Installed-Size: 168
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.18
+Description: Tool like grep optimized for programmers
+Homepage: https://beyondgrep.com/
+Depends: perl, coreutils
+Filename: dists/termux/extras/binary-all/ack-grep_2.18_all.deb
+Size: 36872
+SHA256: 83849557df4e001c8f063c9e26b7ba47097e6d6915400989ca4d5da2f30ed17a
+
+Package: apksigner
+Architecture: all
+Installed-Size: 3916
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.4
+Description: APK signing tool
+Homepage: https://github.com/fornwall/apksigner
+Filename: dists/termux/extras/binary-all/apksigner_0.4_all.deb
+Size: 1146380
+SHA256: 08b7300629c3b309179d6756415dc32b9a4f77048d077ec1136d05b7985a0fac
+
+Package: asciinema
+Architecture: all
+Installed-Size: 88
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.4.0
+Description: Record and share your terminal sessions, the right way
+Homepage: https://asciinema.org/
+Depends: python, ncurses-utils
+Filename: dists/termux/extras/binary-all/asciinema_1.4.0_all.deb
+Size: 32708
+SHA256: 66cc4c064b324ff57163e2a135f910b0bd8e4c0f3cd682447475d41587c384bf
+
+Package: autoconf
+Architecture: all
+Installed-Size: 1988
+Maintainer: Fredrik Fornwall <fredrik@fornwall.net>
+Version: 2.69
+Description: Creator of shell scripts to configure source code packages
+Homepage: http://www.gnu.org/software/autoconf/autoconf.html
+Depends: m4, make, perl
+Filename: dists/termux/extras/binary-all/autoconf_2.69_all.deb
+Size: 275416
+SHA256: 417cd08b804b6c2022675acccc67dfb36be8d5dd16ef7408c726da1f58958825
+
+Package: automake
+Architecture: all
+Installed-Size: 1936
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.15.1
+Description: Tool for automatically generating Makefile.in files
+Homepage: https://www.gnu.org/software/automake/
+Depends: autoconf
+Filename: dists/termux/extras/binary-all/automake_1.15.1_all.deb
+Size: 315900
+SHA256: 3663bf82725274ec4cf71374185a403f57fd6ed7332ac12e71b31dccdd121607
+
+Package: bash-completion
+Architecture: all
+Installed-Size: 2076
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.7
+Description: Programmable completion for the bash shell
+Homepage: https://github.com/scop/bash-completion
+Depends: bash
+Filename: dists/termux/extras/binary-all/bash-completion_2.7_all.deb
+Size: 143460
+SHA256: c5e6792c9570c157d83b842c14b317ed4e6b2c056c37a20d4d69c1e60a3e4572
+
+Package: byobu
+Architecture: all
+Installed-Size: 848
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.119
+Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
+Homepage: http://byobu.co/
+Depends: gawk, tmux
+Filename: dists/termux/extras/binary-all/byobu_5.119_all.deb
+Size: 72176
+SHA256: 66ead0fc1adb20a1e2b03f54367497d8103a5dcc33c2c58153132556be2c02f0
+
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 232
+Maintainer: Fredrik Fornwall @fornwall
+Version: 20170607
+Description: Common CA certificates (java keystore format)
+Homepage: https://curl.haxx.se/docs/caextract.html
+Filename: dists/termux/extras/binary-all/ca-certificates-java_20170607_all.deb
+Size: 124400
+SHA256: 502119a2b507a448e0946d84a4208fb38d81bf621d406b2fa44a620533dbda0b
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 284
+Maintainer: Fredrik Fornwall @fornwall
+Version: 20170607
+Description: Common CA certificates
+Homepage: https://curl.haxx.se/docs/caextract.html
+Filename: dists/termux/extras/binary-all/ca-certificates_20170607_all.deb
+Size: 138192
+SHA256: 5e8942668bf933da42d0cf560f60f4191a9feaa897c639f2e3904857cebea3a6
+
+Package: colordiff
+Architecture: all
+Installed-Size: 80
+Maintainer: Oliver Schmidhauser @Neo-Oli
+Version: 1.0.18
+Description: The Perl script colordiff is a wrapper for 'diff' and produces the same output but with pretty 'syntax' highlighting.
+Homepage: http://www.colordiff.org
+Depends: perl
+Filename: dists/termux/extras/binary-all/colordiff_1.0.18_all.deb
+Size: 8260
+SHA256: d0ce4a40af57cb14ba9d0589f0eba58979b61accd687387f878b05dd5845f3bd
+
+Package: cowsay
+Architecture: all
+Installed-Size: 220
+Maintainer: Fredrik Fornwall <fredrik@fornwall.net>
+Version: 3.03
+Description: Program which generates ASCII pictures of a cow with a message
+Homepage: https://en.wikipedia.org/wiki/Cowsay
+Depends: perl
+Filename: dists/termux/extras/binary-all/cowsay_3.03_all.deb
+Size: 10220
+SHA256: b13f580b7f60b4ce26284a418b3a9b00766bf1f7f5dd3b414292377086467dc4
+
+Package: dx
+Architecture: all
+Installed-Size: 848
+Maintainer: Fredrik Fornwall @fornwall
+Version: 26.0.1
+Description: Command which takes in class files and reformulates them for usage on Android
+Homepage: http://developer.android.com/tools/help/index.html
+Filename: dists/termux/extras/binary-all/dx_26.0.1_all.deb
+Size: 283116
+SHA256: c46f2655668bc5a7db116a89b0451c91780046907a77b39b0d93510ee0b5ccd5
+
+Package: ecj
+Architecture: all
+Installed-Size: 7564
+Maintainer: Fredrik Fornwall @fornwall
+Version: 4.6.2-1
+Description: Eclipse Compiler for Java
+Homepage: http://www.eclipse.org/jdt/core/
+Filename: dists/termux/extras/binary-all/ecj_4.6.2-1_all.deb
+Size: 6184848
+SHA256: b0a9457d410735d3ab1af3ed1f689480742e0a5258d251c65ff72b190db0dddd
+
+Package: getmail
+Architecture: all
+Installed-Size: 376
+Maintainer: Fredrik Fornwall @fornwall
+Version: 5.1
+Description: fetchmail replacement relatively easy to configure
+Homepage: http://pyropus.ca/software/getmail/
+Depends: python2
+Filename: dists/termux/extras/binary-all/getmail_5.1_all.deb
+Size: 50332
+SHA256: 09815f595abf5ecebf7492b1fe69bce2ed9f4d657c02bf660c69ad6067c9fb38
+
+Package: hunspell-en-us
+Architecture: all
+Installed-Size: 572
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2017.03.03-1
+Description: American english dictionary for hunspell
+Homepage: https://hunspell.github.io
+Filename: dists/termux/extras/binary-all/hunspell-en-us_2017.03.03-1_all.deb
+Size: 160084
+SHA256: 4f521f2394700070e4043bb612a1ed89a0e7b12d33af37a4bbb5270005e71059
+
+Package: hunspell-ru
+Architecture: all
+Installed-Size: 2008
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2017.03.03
+Description: Russian dictionary for hunspell
+Homepage: https://hunspell.github.io
+Filename: dists/termux/extras/binary-all/hunspell-ru_2017.03.03_all.deb
+Size: 421284
+SHA256: 3f3f3f94d46871d1842b03c09a1fd6b8631c7d78ec7262b81679a33d87f1304b
+
+Package: linux-man-pages
+Architecture: all
+Installed-Size: 23792
+Maintainer: Fredrik Fornwall @fornwall
+Version: 4.11
+Description: Man pages for linux kernel and C library interfaces
+Homepage: https://www.kernel.org/doc/man-pages/
+Depends: man
+Filename: dists/termux/extras/binary-all/linux-man-pages_4.11_all.deb
+Size: 2203300
+SHA256: 9e9066f356c91d0dafd3f052ebdc33bfb28f5fe82fceedf4157a68a75696a589
+
+Package: luarocks
+Architecture: all
+Installed-Size: 680
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.4.2
+Description: Deployment and management system for Lua modules
+Homepage: https://luarocks.org/
+Depends: curl, lua
+Filename: dists/termux/extras/binary-all/luarocks_2.4.2_all.deb
+Size: 89908
+SHA256: 1b9228d25635c5bad13bd4815c6d038f4306840f816288ac410e46e2ccd0d634
+
+Package: mime-support
+Architecture: all
+Installed-Size: 52
+Maintainer: Fredrik Fornwall @fornwall
+Version: 3.60
+Description: MIME type associations for file types
+Homepage: https://packages.debian.org/en/stretch/mime-support
+Conflicts: mutt (<< 1.8.3-1)
+Filename: dists/termux/extras/binary-all/mime-support_3.60_all.deb
+Size: 7452
+SHA256: 2ba17c1a4ac1550d69fc5fde9704b145b986b8b905c78ccad3dbc4344cd6deb2
+
+Package: neofetch
+Architecture: all
+Installed-Size: 712
+Maintainer: Muhammad Herdiansyah @konimex
+Version: 3.2.0
+Description: Simple system information script
+Homepage: https://github.com/dylanaraps/neofetch
+Depends: bash
+Filename: dists/termux/extras/binary-all/neofetch_3.2.0_all.deb
+Size: 59380
+SHA256: fabdb76cbeca1fdc79b2d1445965210b462b870a058e0b5da58cf079b270f128
+
+Package: parallel
+Architecture: all
+Installed-Size: 1012
+Maintainer: Fredrik Fornwall @fornwall
+Version: 20170722
+Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+Homepage: http://www.gnu.org/software/parallel/
+Depends: perl
+Filename: dists/termux/extras/binary-all/parallel_20170722_all.deb
+Size: 186424
+SHA256: dba3ef921b3c9f23e35bc713380e7be9817f9e3839ea60cf5f0e04430cd9c49c
+
+Package: pass
+Architecture: all
+Installed-Size: 112
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.7.1-2
+Description: Lightweight directory-based password manager
+Homepage: https://www.passwordstore.org/
+Depends: bash, gnupg2, tree
+Filename: dists/termux/extras/binary-all/pass_1.7.1-2_all.deb
+Size: 14700
+SHA256: b9c1ebeaba67d65d1d12cb693d0cbc6967b5dbcb2305ab561a14541c527e63c8
+
+Package: pastebinit
+Architecture: all
+Installed-Size: 128
+Maintainer: Fredrik Fornwall <fredrik@fornwall.net>
+Version: 1.5
+Description: Command-line pastebin client
+Homepage: https://launchpad.net/pastebinit
+Depends: python
+Filename: dists/termux/extras/binary-all/pastebinit_1.5_all.deb
+Size: 7612
+SHA256: 015619fb83d5a95509f3d7ad4e1490e4c2676af5beac44e88e6b7de40a5d2b20
+
+Package: pathpicker
+Architecture: all
+Installed-Size: 528
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.7.2
+Description: Facebook PathPicker - a terminal-based file picker
+Homepage: https://facebook.github.io/PathPicker/
+Depends: bash,python
+Filename: dists/termux/extras/binary-all/pathpicker_0.7.2_all.deb
+Size: 37312
+SHA256: b3f40c43ba0d7f669adbeb7a5722e5e31ad6cba43c5380b5955a3ee96c1fec97
+
+Package: ranger
+Architecture: all
+Installed-Size: 932
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.8.1
+Description: File manager with VI key bindings
+Homepage: http://ranger.nongnu.org/
+Depends: python, file
+Filename: dists/termux/extras/binary-all/ranger_1.8.1_all.deb
+Size: 124044
+SHA256: ec66cf66d8ffed2fa4e8256ec59695ebabeb086f18ad265e395ea17f26711551
+
+Package: ruby-ri
+Architecture: all
+Installed-Size: 68116
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.4.1-1
+Description: Ruby documentation index
+Homepage: https://www.ruby-lang.org/
+Depends: ruby
+Filename: dists/termux/extras/binary-all/ruby-ri_2.4.1-1_all.deb
+Size: 3062580
+SHA256: 95283518d6780a5bbfba8d95a9d47bb39b33d5267f441344c1a39c296a496dbc
+
+Package: screenfetch
+Architecture: all
+Installed-Size: 260
+Maintainer: Pierre Rudloff @Rudloff
+Version: 3.8.0
+Description: Bash Screenshot Information Tool
+Homepage: https://github.com/KittyKatt/screenFetch
+Depends: bash
+Filename: dists/termux/extras/binary-all/screenfetch_3.8.0_all.deb
+Size: 43812
+SHA256: e5786fd088193965b1acfd74403019da0b66eba93e5ee5cd040f361235e38400
+
+Package: stow
+Architecture: all
+Installed-Size: 184
+Maintainer: Fredrik Fornwall <fredrik@fornwall.net>
+Version: 2.2.2
+Description: Stow is a tool for managing the installation of multiple software packages in the same run-time directory tree. 
+Homepage: https://www.gnu.org/software/stow/
+Depends: perl
+Filename: dists/termux/extras/binary-all/stow_2.2.2_all.deb
+Size: 24812
+SHA256: 19a86363d40d399e01d484397aba5991ca0bfe03f71eac88b90a0de74f00eb2f
+
+Package: termux-apt-repo
+Architecture: all
+Installed-Size: 36
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.2
+Description: Script to create Termux apt repositories
+Homepage: https://github.com/termux/termux-apt-repo
+Depends: binutils, python, tar
+Filename: dists/termux/extras/binary-all/termux-apt-repo_0.2_all.deb
+Size: 2752
+SHA256: cf8dfc4cdf5d73a9a06f4c1d26076b1740dbd4eabbfd1dd3f5e16eea916d469d
+
+Package: termux-create-package
+Architecture: all
+Installed-Size: 36
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.4
+Description: Utility to create Termux packages
+Homepage: https://github.com/termux/termux-create-package
+Depends: python
+Filename: dists/termux/extras/binary-all/termux-create-package_0.4_all.deb
+Size: 2720
+SHA256: 32d684d93d9bf136cc9e75dee2a421c24831d544ce96530d74085bfe911e0888
+
+Package: termux-tools
+Architecture: all
+Installed-Size: 124
+Maintainer: Fredrik Fornwall @fornwall
+Version: 0.43
+Description: Basic system tools for Termux
+Homepage: https://termux.com/
+Filename: dists/termux/extras/binary-all/termux-tools_0.43_all.deb
+Size: 4204
+SHA256: 174969b7cbc0f5e8c04cae8751fa25ca8baf9909d92b259f3d6596d1f322b0be
+
+Package: texlive
+Architecture: all
+Installed-Size: 51664
+Maintainer: Henrik Grimler @Grimler91
+Version: 20170524-3
+Description: TeX Live is a distribution of the TeX typesetting system.
+Homepage: https://www.tug.org/texlive/
+Depends: wget, perl, xz-utils, gnupg2, texlive-bin (>= 20170524)
+Filename: dists/termux/extras/binary-all/texlive_20170524-3_all.deb
+Size: 6647592
+SHA256: 8478f76831a8ca67a5e6f1b80963654388a7b5d0b27c8588c412e0199a6ac617
+
+Package: tsu
+Architecture: all
+Installed-Size: 32
+Maintainer: Fredrik Fornwall <fredrik@fornwall.net>
+Version: 0.1
+Description: A su wrapper for Termux
+Homepage: https://github.com/cswl/tsu
+Filename: dists/termux/extras/binary-all/tsu_0.1_all.deb
+Size: 1648
+SHA256: 70ee71e4a85a72bfcdd97c2826fbb8da64f9aefe2b15e98ece468a65b0801e40
+
+Package: vim-runtime
+Architecture: all
+Installed-Size: 20568
+Maintainer: Fredrik Fornwall @fornwall
+Version: 8.0.1052
+Description: Vi IMproved - Runtime files
+Homepage: http://www.vim.org/
+Filename: dists/termux/extras/binary-all/vim-runtime_8.0.1052_all.deb
+Size: 3777292
+SHA256: 2d8987d1a0fbfa80fe5664c60c397d52ddb6afd42f2ed4ad3b5485e5ca02d9f8
