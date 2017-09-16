@@ -11,3 +11,7 @@ Use `apt list --all-versions` to see what is available for installing via `apt`.
 For some unknown reason `pkg list-all` doesn't list what is available for installing from this repository via `pkg`.
 
 To see what is available, please view the `Packages` files. 
+
+Please provide your input here regarding this arch-all repository for Termux. Did it work for you? Were you able to use it?
+
+The intended purpose of this Termux repository is for storage and retrieval of Termux *.deb files in the arch-all branch from http://termux.net 😀
