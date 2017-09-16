@@ -12,9 +12,9 @@ Use `apt list --all-versions` to see what is available for installing via `apt`.
 
 To see what is available, please view the `Packages` files. 
 
-Please provide your input regarding this arch-all repository for Termux. Did it work for you? Were you able to use it?
+Please provide your input regarding this binary-all repository for Termux. Did it work for you? Were you able to use it?
 
-The intended purpose of this Termux repository is archiving Termux `*.deb` files in the arch-all branch from http://termux.net 😀
+The intended purpose of this Termux repository is archiving Termux `*.deb` files in the binary-all branch from http://termux.net 😀
 
 [ack-grep_2.18_all.deb](./dists/termux/extras/binary-all/ack-grep_2.18_all.deb)
 
