@@ -10,4 +10,8 @@ To the `sources.list` file so `apt` can access this repository from your device 
 
 Use `apt list --all-versions` to see what is available for installing via `apt`.
 
-o see what is available, please view the `Packages` files. 
+To see what is available, please view the `Packages` files. 
+
+Please provide your input regarding this arch-all repository for Termux. Did it work for you? Were you able to use it?
+
+The intended purpose of this Termux repository is for archiving Termux `*.deb` files in the arch-all branch from http://termux.net 😀
