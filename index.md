@@ -1,12 +1,5 @@
 # [repo](https://github.com/sdrausty/repo)
 
-Similar repositories include:
-[https://sdrausty.github.io/repoAll/](https://sdrausty.github.io/repoAll/)
-[https://sdrausty.github.io/repoArm/](https://sdrausty.github.io/repoArm/)
-[https://sdrausty.github.io/repoAarch64/](https://sdrausty.github.io/repoAarch64/)
-[https://sdrausty.github.io/repoI686/](https://sdrausty.github.io/repoI686/)
-[https://sdrausty.github.io/repoX86_64/](https://sdrausty.github.io/repoX86_64/)
-
 Add the following line:
 
 ```
@@ -90,4 +83,11 @@ The intended purpose of this Termux repository is archiving Termux `*.deb` files
 [tsu_0.1_all.deb](./dists/termux/extras/binary-all/tsu_0.1_all.deb)
 
 [vim-runtime_8.0.1052_all.deb](./dists/termux/extras/binary-all/vim-runtime_8.0.1052_all.deb)
+
+Similar repositories include:
+[https://sdrausty.github.io/repoAll/](https://sdrausty.github.io/repoAll/)
+[https://sdrausty.github.io/repoArm/](https://sdrausty.github.io/repoArm/)
+[https://sdrausty.github.io/repoAarch64/](https://sdrausty.github.io/repoAarch64/)
+[https://sdrausty.github.io/repoI686/](https://sdrausty.github.io/repoI686/)
+[https://sdrausty.github.io/repoX86_64/](https://sdrausty.github.io/repoX86_64/)
 
